@@ -1,0 +1,6 @@
+Metric,The Intern (Fine-Tuned),The Librarian (RAG)
+ROUGE-L Score,0.4615,0.6667
+LLM Faithfulness (1-5),1.00,1.00
+LLM Accuracy (1-5),1.00,1.00
+Avg Latency (ms),505,1514
+Median Latency (ms),505,1514
