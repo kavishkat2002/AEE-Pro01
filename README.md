@@ -1,8 +1,8 @@
 # RAG Librarian vs. Fine-Tuned LLM (Operation Ledger-Mind)
 
-Welcome to the production repository for **Operation Ledger-Mind** (AEE Mini-Project 01). 
+Production repository for **Operation Ledger-Mind** (AEE Mini-Project 01). 
 
-As the Tech Lead on this project, my goal was to take our Colab-centric prototype codebase and adapt it into a robust, resource-optimized, local engineering environment. This repository contains the complete implementation of our financial QA data factory, our RAG Librarian search engine, and a showdown evaluation arena measuring response quality, accuracy, and latency.
+My goal was to take our Colab-centric prototype codebase and adapt it into a robust, resource-optimized, local engineering environment. This repository contains the complete implementation of our financial QA data factory, our RAG Librarian search engine, and a showdown evaluation arena measuring response quality, accuracy, and latency.
 
 ---
 
